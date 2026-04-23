@@ -25,7 +25,6 @@ This repository contains shared resources used across multiple BigCut applicatio
 ## Usage
 
 Imported into:
-- CalFit App
 - Admin Dashboard
 - Future applications
 
